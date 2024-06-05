@@ -1,6 +1,6 @@
 # Implementasi-Integrasi-Numerik-untuk-Menghitung-Estimasi-nilai-Pi
 
-Repositori ini berisi skrip Python untuk mendekati nilai Pi menggunakan metode integrasi Riemann. Skrip ini menghitung integral dari fungsi 𝑓 ( 𝑥 ) = 4/1+x^2​ pada interval [ 0 , 1 ]  dengan menggunakan jumlah pembagian 𝑁 N yang ditentukan. Nilai Pi yang diaproksimasi, kesalahan RMS dibandingkan dengan nilai Pi yang sebenarnya, dan waktu eksekusi untuk setiap perhitungan diberikan untuk berbagai nilai 𝑁 N.
+Repositori ini berisi skrip Python untuk mendekati nilai Pi menggunakan metode integrasi Riemann. Skrip ini menghitung integral dari fungsi 𝑓 ( 𝑥 ) = 4/1+x^2​ pada interval [ 0 , 1 ]  dengan menggunakan jumlah pembagian 𝑁 yang ditentukan. Nilai Pi yang diaproksimasi, kesalahan RMS dibandingkan dengan nilai Pi yang sebenarnya, dan waktu eksekusi untuk setiap perhitungan diberikan untuk berbagai nilai 𝑁.
 
 **Skrip ini melakukan langkah-langkah berikut** :
 
